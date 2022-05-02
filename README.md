@@ -1,11 +1,9 @@
 # ¡Hola! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-I'm Rene Caceres, a web developer based in Santiago, Chile. I love building beautiful interfaces, web apps, and everything in between.
+I'm Jorge Fernández, desarrollador web de Santiago de chile. Me gusta construir interfaces, web apps y soluciones inteligentes.
 
-I've completed 1 year of Computer Science at the University of Santiago, Chile, and I'm currently in week 10 of a 14-week intensive coding bootcamp where I'm learning Full Stack Web Development
+Actualmente estoy finalizando un bootcamps en coding dojo donde hemos aprendido sobre Python, Java y React, el cual finaliza el 15 de mayo de 2022. Además estoy cursando el tercer semestre de la carrera analista programador en el instituto profesional Los Leones donde el lenguaje principal a estudiar es C#.
 
-When I'm not in front of a computer screen, I'm probably either building or talking about mechanical keyboards
-
-I'm looking forward to joining a mission-driven and collaborative team where I can share my skills as a Software Developer!
+Estoy Buscando un trabajo donde pueda potenciar mis capacidades intelectuales y a la vez ser un gran aporte con mis conocimientos.
 
 Let's connect! <br> [![](https://img.shields.io/badge/linkedin-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-fern%C3%A1ndez-30-desarrollo-backend/)
 
