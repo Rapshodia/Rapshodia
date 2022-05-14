@@ -20,4 +20,4 @@ Let's connect! <br> [![](https://img.shields.io/badge/linkedin-1d4ed8?style=for-
 [![](https://img.shields.io/badge/mongodb-16a34a?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/express-475569?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![](https://img.shields.io/badge/nodejs-14532d?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![](https://img.shields.io/badge/framermotion-4c1d95?style=for-the-badge&logo=framer&logoColor=white)](https://nodejs.org/en/)
+
